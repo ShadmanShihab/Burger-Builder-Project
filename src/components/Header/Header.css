@@ -2,11 +2,6 @@
     margin-bottom: 20px;
 }
 
-.Navbar {
-    display: flex;
-    flex-direction: row;
-}
-
 .Brand{
     color: white;
     font-size: 15px;
@@ -22,8 +17,4 @@
 
 .NavLink:hover {
     color: wheat;
-}
-
-.nav-item{
-    float: left;
 }
